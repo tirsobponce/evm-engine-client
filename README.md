@@ -15,5 +15,5 @@ pnpm install
 ### Run project
 
 ```
-pnpm dev
+pnpm demo
 ```
